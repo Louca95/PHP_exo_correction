@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Formulaire 2</h1>
-    <form action="traitement.php" method="POST">
+    <form action="correction-Exercice-08-01" method="POST">
         <label for="name">Nom</label>
         <input type="text" id="name" name="name" value=<?php echo isset($_POST['name']) ? htmlspecialchars($_POST['name']) : "" ?> >
 
