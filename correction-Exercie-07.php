@@ -11,11 +11,11 @@
 <body>
     <h1>Nos produits</h1>
 
-    <a href="traitement.php?article=jean&couleur=bleu&prix=30">Jean bleu</a>
+    <a href="correction-Exercice-07-01.php?article=jean&couleur=bleu&prix=30">Jean bleu</a>
     <br>
-    <a href="traitement.php?article=robe&couleur=rouge&prix=40">Robe rouge</a>
+    <a href="correction-Exercice-07-01.php?article=robe&couleur=rouge&prix=40">Robe rouge</a>
     <br>
-    <a href="traitement.php?article=pull&couleur=blanc&prix=10">Pull blanc</a>
+    <a href="correction-Exercice-07-01.php?article=pull&couleur=blanc&prix=10">Pull blanc</a>
 
 </body>
 

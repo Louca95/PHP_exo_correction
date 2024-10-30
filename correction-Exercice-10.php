@@ -10,7 +10,7 @@
 <body>
     <h1>Page d'inscription</h1>
 
-    <form action="traitement.php" method="post">
+    <form action="correction-Exercice-10_01.php" method="post">
         <div>
             <label for="nom">Votre nom</label>
             <input type="text" id="nom" name="nom" required>
